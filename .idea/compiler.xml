@@ -9,8 +9,11 @@
         <module name="SobesTask" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="SobesTask" target="1.7" />
     </bytecodeTargetLevel>
+=======
+>>>>>>> 6ea4c21 (add test for methg)
   </component>
 </project>

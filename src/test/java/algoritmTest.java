@@ -2,11 +2,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class algoritnTest {
+public class algoritmTest {
 
     @Test
     public void findFirstRepetNumber() {
         int[] testArr = {2, 4, 3, 2, 4};
-        assertEquals(2, algoritn.findFirstRepetNumber(testArr));
+        assertEquals(2, Algoritm.findFirstRepetNumber(testArr));
     }
 }

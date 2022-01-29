@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class algoritn {
+public class Algoritm {
 
     public static int[] sort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
